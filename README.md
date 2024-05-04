@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Proactive Junior Software Developer specializing in mobile development utilizing the Flutter framework and Dart programming language. Capable of crafting elegant and efficient mobile applications that are scalable in size and boast pleasing UIs tailored to meet users' needs and deliver an enjoyable experience. I am always keen on improvement and staying abreast of the latest developments in my field.  Acquired with soft skills to thrive in a collaborative environments  to share my experiences and learn from those with greater expertise.
 <!--
 **KemoEmam/KemoEmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
