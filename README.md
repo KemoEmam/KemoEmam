@@ -5,7 +5,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?fonts=Righteous&size=37&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there,+I'm+Karim+👋+👨‍💻;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
-        <img src="https://readme-typing-svg.herokuapp.com/?fonts=Righteous&size=28&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Junior+Flutter+Developer;Software+Engineering+Student;Junior+Flutter+Developer&color=f7515c" />
+        <img src="https://readme-typing-svg.herokuapp.com/?fonts=Righteous&size=27&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Junior+Flutter+Developer;Software+Engineering+Student;Junior+Flutter+Developer&color=f7515c" />
     </a>
 </h1>
 
