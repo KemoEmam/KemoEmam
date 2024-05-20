@@ -1,9 +1,7 @@
-<!-- MasterHead Image -->
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:3200/1*vkfI4nFNheC5v0p7wzDtGg.gif" alt="MasterHead">
 </p>
 
-<!-- Typing SVGs -->
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?fonts=Righteous&size=37&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there,+I'm+Karim+👋+👨‍💻;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
@@ -11,14 +9,15 @@
     </a>
 </h1>
 
+<p>
+    <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs">
+</p>
+
 <h3 align="left">
     <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" alt="About Me" height="30" style="vertical-align: middle;">
     About me:
 </h3>
 <!-- About Me with Image -->
-<p>
-    <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs">
-</p>
 
 - 🔭 I’m currently working on **Mobile App Development.**
 
@@ -27,12 +26,15 @@
 - 💬 Ask me about **my projects.**
 
 - 📫 How to reach me **dev.karim.el.emam@gmail.com**
+###
 
-<!-- Image and Connect with Me Section -->
-<h3 align="left">
-    <img src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="Connect Image" height="40" style="vertical-align: middle; margin-right: 10px;">
+<h2 align="left">
+    <img src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="Handshake" height="40" style="vertical-align: middle; margin-right: 10px;">
     Connect with me:
-</h3>
+</h2>
+
+###
+
 <div align="left">
   <a href="https://discord.com/users/603023626547101707" target="blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo" />
@@ -51,7 +53,12 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+###
+
+<h2 align="left">Languages and Tools:</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
@@ -73,7 +80,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <div align="center">
