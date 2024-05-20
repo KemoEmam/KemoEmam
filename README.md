@@ -9,6 +9,16 @@
     </a>
 </h1>
 
+<h3 align="left">Visitors count:</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KemoEmam/count.svg?"  />
+</div>
+
+###
+
+<hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc);">
+
 <p>
     <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs">
 </p>
@@ -59,9 +69,6 @@
 
 ###
 
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
@@ -73,10 +80,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-
- <img src="https://cdn.simpleicons.org/gitkraken/179287" height="40" alt="krakenjs logo"  />
+  <img src="https://cdn.simpleicons.org/gitkraken/179287" height="40" alt="krakenjs logo"  />
   <img width="12" />
-    
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -96,5 +101,3 @@
   <img src="https://streak-stats.demolab.com?user=KemoEmam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=KemoEmam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
