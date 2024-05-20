@@ -59,6 +59,9 @@
 
 ###
 
+
+###
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
@@ -70,6 +73,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
+
+ <img src="https://cdn.simpleicons.org/gitkraken/179287" height="40" alt="krakenjs logo"  />
+  <img width="12" />
+    
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
