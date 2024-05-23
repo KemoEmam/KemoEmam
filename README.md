@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **my projects.**
 
-- 📫 How to reach me **dev.karim.el.emam@gmail.com**
+- 📫 How to reach me **dev.karim.elemam@gmail.com**
 ###
 
 <h2 align="left">
