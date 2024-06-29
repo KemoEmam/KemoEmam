@@ -21,7 +21,7 @@
 </div>
 
 <p>
-    <img align="right" alt="Coding" width="460" src="https://preview.redd.it/pixel-art-wallpapers-v0-7qxgnfdt80qc1.gif?width=640&crop=smart&auto=webp&s=a5dd6f83a429b1a0274cc26057c777d1e0757e46">
+    <img align="right" alt="Coding" width="450" src="https://preview.redd.it/pixel-art-wallpapers-v0-7qxgnfdt80qc1.gif?width=640&crop=smart&auto=webp&s=a5dd6f83a429b1a0274cc26057c777d1e0757e46">
 </p>
 
 <h3 align="left">
