@@ -12,8 +12,12 @@
 <h3 align="left">Visitors count:</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KemoEmam/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=KemoEmam&label=Profile%20views&color=f7515c&style=flat-square" alt="profile views" />
 </div>
+
+<!-- Optional odometer-style alternative (try it if you prefer the old rolling-digits look):
+  <img src="https://count.getloli.com/get/@KemoEmam?theme=rule34" alt="visitor counter" />
+-->
 
 ###
 <div align="center">
@@ -21,18 +25,17 @@
 </div>
 
 <p>
-    <img align="right" alt="Coding" width="450" src="https://preview.redd.it/pixel-art-wallpapers-v0-7qxgnfdt80qc1.gif?width=640&crop=smart&auto=webp&s=a5dd6f83a429b1a0274cc26057c777d1e0757e46">
+    <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
 
 <h3 align="left">
     <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" alt="About Me" height="30" style="vertical-align: middle;">
     About me:
 </h3>
-<!-- About Me with Image -->
 
-- 🔭 I’m currently working on **Mobile App Development.**
+- 🔭 I'm currently working on **Mobile App Development.**
 
-- 🌱 I’m currently learning **Flutter Framework.**
+- 🌱 I'm currently learning **Flutter Framework.**
 
 - 💬 Ask me about **my projects.**
 
@@ -40,7 +43,7 @@
 ###
 
 <h2 align="left">
-    <img src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="Handshake" height="40" style="vertical-align: middle; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" height="38" style="vertical-align: middle; margin-right: 10px;">
     Connect with me:
 </h2>
 
@@ -52,7 +55,7 @@
   </a>
   <img width="12" />
   <a href="https://linkedin.com/in/karim-el-emam" target="blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
   <img width="12" />
   <a href="mailto:dev.karim.el.emam@gmail.com" target="blank">
@@ -98,9 +101,13 @@
 <br clear="both">
 
 <div align="center">
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KemoEmam&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=KemoEmam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KemoEmam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=KemoEmam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=KemoEmam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KemoEmam&theme=react-dark&bg_color=282a36&color=f7515c&line=bd93f9&point=ffffff&hide_border=true&area=true" alt="activity graph" width="95%" />
+</div>
+
+---
