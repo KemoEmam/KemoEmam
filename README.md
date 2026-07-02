@@ -71,7 +71,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple ios logo"  />
+  <img src="https://cdn.simpleicons.org/apple/A2AAAD" height="40" alt="apple ios logo"  />
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
