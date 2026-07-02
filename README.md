@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KemoEmam&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="profile views" />
+  <img src="https://hits.sh/github.com/KemoEmam.svg?style=for-the-badge&label=Profile%20Views&color=8A2BE2&labelColor=2b2d3a" alt="profile views" />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 </div>
 
 <p>
-    <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 </p>
 
 <h3 align="left">
@@ -71,6 +71,8 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo"  />
+  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -78,6 +80,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="claude ai logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
