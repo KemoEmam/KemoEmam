@@ -42,14 +42,14 @@ jobs:
 
             const username = "KemoEmam";
 
-            const stats = await fetchStats(username, false, true, [], true, "recent");
+            const stats = await fetchStats(username, false, [], false, false, false);
             const statsSvg = renderStatsCard(stats, {
               hide_title: false, hide_rank: false, show_icons: true,
               include_all_commits: false, theme: "dracula", locale: "en", hide_border: false,
             });
             writeFileSync("out/stats.svg", statsSvg);
 
-            const topLangs = await fetchTopLanguages(username, [], "compact");
+            const topLangs = await fetchTopLanguages(username, []);
             const langsSvg = renderTopLanguages(topLangs, {
               hide_title: false, layout: "compact", card_width: 320,
               langs_count: 5, theme: "dracula", locale: "en", hide_border: false,
