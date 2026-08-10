@@ -19,14 +19,14 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Clone github-readme-stats source
         run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats /tmp/grs
 
       - name: Install deps
         working-directory: /tmp/grs
-        run: npm install --omit=dev --no-audit --no-fund
+        run: npm install --omit=dev --ignore-scripts --no-audit --no-fund
 
       - name: Render stats + top-langs SVGs
         env:
