@@ -1,0 +1,71 @@
+name: Update stats cards
+
+on:
+  schedule:
+    - cron: "8 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: streak
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Clone github-readme-stats source
+        run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats /tmp/grs
+
+      - name: Install deps
+        working-directory: /tmp/grs
+        run: npm install --omit=dev --no-audit --no-fund
+
+      - name: Render stats + top-langs SVGs
+        env:
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p out
+          node --input-type=module -e '
+            import { writeFileSync } from "fs";
+            import { fetchStats } from "/tmp/grs/src/fetchers/stats.js";
+            import { renderStatsCard } from "/tmp/grs/src/cards/stats.js";
+            import { fetchTopLanguages } from "/tmp/grs/src/fetchers/top-languages.js";
+            import { renderTopLanguages } from "/tmp/grs/src/cards/top-languages.js";
+
+            const username = "KemoEmam";
+
+            const stats = await fetchStats(username, false, true, [], true, "recent");
+            const statsSvg = renderStatsCard(stats, {
+              hide_title: false, hide_rank: false, show_icons: true,
+              include_all_commits: false, theme: "dracula", locale: "en", hide_border: false,
+            });
+            writeFileSync("out/stats.svg", statsSvg);
+
+            const topLangs = await fetchTopLanguages(username, [], "compact");
+            const langsSvg = renderTopLanguages(topLangs, {
+              hide_title: false, layout: "compact", card_width: 320,
+              langs_count: 5, theme: "dracula", locale: "en", hide_border: false,
+            });
+            writeFileSync("out/langs.svg", langsSvg);
+
+            console.log("Rendered stats.svg and langs.svg");
+          '
+          grep -q "<svg" out/stats.svg
+          grep -q "<svg" out/langs.svg
+
+      - name: Commit
+        run: |
+          mv out/stats.svg stats.svg
+          mv out/langs.svg langs.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg langs.svg
+          git diff --cached --quiet || { git commit -m "Update stats cards"; git push; }
