@@ -30,7 +30,7 @@ jobs:
 
       - name: Render stats + top-langs SVGs
         env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.PAT_1 }}
         run: |
           mkdir -p out
           node --input-type=module -e '
